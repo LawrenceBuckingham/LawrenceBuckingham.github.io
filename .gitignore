@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite-journal
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/LawrenceBuckingham.github.io/v17/TestStore/0/testlog.manifest
+/.vs/LawrenceBuckingham.github.io/v17/TestStore/0/000.testlog
+/.vs/LawrenceBuckingham.github.io/v17/.wsuo
+/.vs/LawrenceBuckingham.github.io/FileContentIndex/read.lock
+/.vs/LawrenceBuckingham.github.io/FileContentIndex/30cf61a5-8c5f-47a1-a0fd-1cc96d24fa6f.vsidx
+/.vs/LawrenceBuckingham.github.io/config/applicationhost.config
+/.vs/LawrenceBuckingham.github.io/FileContentIndex/47e95ec5-c331-4a34-bb08-e61726cdbea8.vsidx
+*.vsidx
