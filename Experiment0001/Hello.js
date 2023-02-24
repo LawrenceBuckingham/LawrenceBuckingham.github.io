@@ -1,0 +1,1 @@
+for (let i = 0; i < 99; i++) { document.writeln("<p>Hello!</p>"); }
